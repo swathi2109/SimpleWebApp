@@ -93,13 +93,12 @@ h1{
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
-                <li><a href="#product">Product</a></li>
-                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#product">Product</a></li>                <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
 		
         </header>
-         <h1> ****  Docker is a container tool **** </h1>   
+         <h1> ****  Docker and kubernetes  **** </h1>   
 	 
 
     </section>    
