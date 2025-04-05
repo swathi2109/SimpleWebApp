@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> ****  we will start Docker **** </h1>   
+         <h1> ****  Docker is a core tool **** </h1>   
 	 
 
     </section>    
